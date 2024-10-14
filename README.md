@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 - 💡 I'm currently learning advanced Python and basic JavaScript
 - ⚙️ I'm currenntly working on my pet projects, like Discord chat bot and website
 - 🔎 I'm interested in job offers
-- 💡 You can ask me about bot development and I can help
 - 🔨 I'm interested in chatbot development and web development
+- 💡 You can ask me about bot development and I can help
 - 📫 How to reach me: [Telegram messenger | VMSTR8](https://t.me/vmstr8)
