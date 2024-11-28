@@ -11,11 +11,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 🔎 I'm interested in job offers
 -->
 - 👋 Hi, my name is Maxim and I'm python developer
 - 💡 I'm currently learning advanced Python and basic JavaScript
 - ⚙️ I'm currently working on my pet projects, like Discord chat bot and website
-- 🔎 I'm interested in job offers
 - 🔨 I'm interested in chatbot development and web development
 - 💡 You can ask me about bot development and I can help
 - 📫 How to reach me: [Telegram messenger | VMSTR8](https://t.me/vmstr8)
