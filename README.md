@@ -14,9 +14,8 @@ Here are some ideas to get you started:
 - 🔎 I'm interested in job offers
 -->
 - 👋 Hi, my name is Maxim and I'm python developer
-- 💡 I'm currently learning advanced Python and basic JavaScript
-- ⚙️ I'm currently working on my pet projects, like Discord chat bot and Airsoft team Telegram bot
-- 🔎 I'm interested in job offers
-- 🔨 I'm interested in chatbot development and web development
-- 💡 You can ask me about bot development and I can help
+- 💡 For now I’m learning advanced Python and basic JavaScript
+- ⚙️ I'm currently working with freelance projects…
+- 🔎 … and I’m definitely interested in full-time job offers
+- 🔨 My general interest is chatbot development and web development
 - 📫 How to reach me: [Telegram messenger | VMSTR8](https://t.me/vmstr8)
