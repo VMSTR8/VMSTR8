@@ -12,12 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - 🔎 I'm interested in job offers
+- 🔎 … and I’m definitely interested in full-time job offers
 -->
 - 👋 Hello there! My name is Maxim, and I'm a Python developer.
 - 💡 Currently, I am learning advanced Python and plan to learn another backend programming language.
 - ⚙️ I am currently working at WBTECH as a Python Developer.
-<!--
-- 🔎 … and I’m definitely interested in full-time job offers
--->
 - 🔨 My main interest is in chatbot development and automation.
 - 📫 How to reach me: [Telegram messenger | VMSTR8](https://t.me/vmstr8)
