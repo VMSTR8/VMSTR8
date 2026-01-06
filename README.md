@@ -14,8 +14,10 @@ Here are some ideas to get you started:
 - 🔎 I'm interested in job offers
 - 🔎 … and I’m definitely interested in full-time job offers
 -->
-- 👋 Hello there! My name is Maxim, and I'm a Python developer
-- 💡 Currently, I am learning advanced Python and plan to learn another backend programming language
-- ⚙️ I am currently working at Wildberries Bank Co. Ltd. as a Python Developer
-- 🔨 My main interest is in chatbot development and automation
-- 📫 How to reach me: [Telegram messenger | VMSTR8](https://t.me/vmstr8)
+- 👋 Hey! Maxim here. Welcome to my github!
+- 💡 Learning: Diving deeper into Python and discovering Golang
+- ⚙️ Currently: Crafting backend solutions at Wildberries Bank Co. Ltd.
+- 🔨 Passions: I enjoy building smart chatbots and automating the routine
+- 📫 Get in touch [Ru & Eng]: [Telegram messenger | VMSTR8](https://t.me/vmstr8)
+
+P.S. Old repos - my personal museum of "how not to write code." We all have a messy past, right? I keep it just to remind myself how far I’ve come. 
