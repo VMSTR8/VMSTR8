@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 - 👋 Hey! Maxim here. Welcome to my github!
 - 💡 Learning: Diving deeper into Python and discovering Golang
-- ⚙️ Currently: Crafting backend solutions at Wildberries Bank Co. Ltd.
+- ⚙️ Currently: Crafting backend solutions at [Wildberries Bank Co. Ltd](https://wb-bank.ru/).
 - 🔨 Passions: I enjoy building smart chatbots and automating the routine
 - 📫 Get in touch [Ru & Eng]: [Telegram messenger | VMSTR8](https://t.me/vmstr8)
 
